@@ -16,6 +16,11 @@ The project is still in development, so if you have any further idea, you can co
 2. Open your terminal to the folder location
 3. Run `npm start`
 
+## Screenshot from the app
+
+![image](https://user-images.githubusercontent.com/47014132/123090444-ce530c80-d430-11eb-8f91-26b74f3a8317.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
