@@ -1,6 +1,20 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## What is this project?
+
+The basic purpose of Recipe-app is to search for food's recipes since I love to cook.
+The api that I am using is from edamam.com
+
+The project is still in development, so if you have any further idea, you can contact me via my email: phuclevinh2000@gmail.com
+
+## How to install this Recipe-app
+
+1. Clone this github respository
+2. Open your terminal to the folder location
+3. Run `npm start`
 
 ## Available Scripts
 
